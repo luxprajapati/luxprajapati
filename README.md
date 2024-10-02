@@ -10,7 +10,7 @@
 <a href="https://instagram.com/luxprajapat.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxprajapat.i" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luxprajapati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="luxprajapati" height="30" width="40" /></a>
-<a href="https://discord.gg/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luxprajapati" height="30" width="40" /></a>
+<a href="https://discord.gg/5847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5847" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
