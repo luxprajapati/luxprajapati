@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lux Prajapati</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/luxprajapati0" target="blank"><img src="https://img.shields.io/twitter/follow/luxprajapati0?logo=twitter&style=for-the-badge" alt="luxprajapati0" /></a> </p>
+- ⭐ Check this out [https://luxprajapati.netlify.app/](https://luxprajapati.netlify.app/)
+
+- 📫 How to reach me **prajapatilux1012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +12,6 @@
 <a href="https://instagram.com/luxprajapat.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxprajapat.i" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luxprajapati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="luxprajapati" height="30" width="40" /></a>
-<a href="https://discord.gg/5847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5847" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
