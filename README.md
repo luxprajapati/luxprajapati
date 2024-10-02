@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luxprajapati0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luxprajapati0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luxprajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luxprajapati/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luxprajapati" height="30" width="40" /></a>
 <a href="https://instagram.com/luxprajapat.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxprajapat.i" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luxprajapati" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/luxprajapat.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="luxprajapat.i" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="luxprajapati" height="30" width="40" /></a>
 <a href="https://discord.gg/luxprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luxprajapati" height="30" width="40" /></a>
 </p>
 
